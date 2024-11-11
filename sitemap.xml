@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://behavior-in-the-wild.github.io/</loc>
-<lastmod>2024-08-16T21:53:14+05:30</lastmod>
+<lastmod>2024-11-11T09:44:29+05:30</lastmod>
 </url>
 <url>
 <loc>http://behavior-in-the-wild.github.io/LCBM.html</loc>
@@ -21,12 +21,24 @@
 <lastmod>2024-05-14T12:48:21-04:00</lastmod>
 </url>
 <url>
+<loc>http://behavior-in-the-wild.github.io/measure-engagement.html</loc>
+<lastmod>2024-11-11T09:44:29+05:30</lastmod>
+</url>
+<url>
 <loc>http://behavior-in-the-wild.github.io/measure-persuasion.html</loc>
 <lastmod>2024-10-06T16:12:43+05:30</lastmod>
 </url>
 <url>
 <loc>http://behavior-in-the-wild.github.io/memorability.html</loc>
 <lastmod>2024-10-06T16:12:43+05:30</lastmod>
+</url>
+<url>
+<loc>http://behavior-in-the-wild.github.io/persuasion-blog.html</loc>
+<lastmod>2024-11-11T09:44:29+05:30</lastmod>
+</url>
+<url>
+<loc>http://behavior-in-the-wild.github.io/teaching-behavior-improves-content-understanding.html</loc>
+<lastmod>2024-11-11T09:44:29+05:30</lastmod>
 </url>
 <url>
 <loc>http://behavior-in-the-wild.github.io/the-culture-repository.html</loc>
